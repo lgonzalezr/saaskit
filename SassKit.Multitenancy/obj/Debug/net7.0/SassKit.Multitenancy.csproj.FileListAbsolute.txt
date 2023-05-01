@@ -1,0 +1,12 @@
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\bin\Debug\net7.0\SassKit.Multitenancy.deps.json
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\bin\Debug\net7.0\SassKit.Multitenancy.dll
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\bin\Debug\net7.0\SassKit.Multitenancy.pdb
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\obj\Debug\net7.0\SassKit.Multitenancy.csproj.AssemblyReference.cache
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\obj\Debug\net7.0\SassKit.Multitenancy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\obj\Debug\net7.0\SassKit.Multitenancy.AssemblyInfoInputs.cache
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\obj\Debug\net7.0\SassKit.Multitenancy.AssemblyInfo.cs
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\obj\Debug\net7.0\SassKit.Multitenancy.csproj.CoreCompileInputs.cache
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\obj\Debug\net7.0\SassKit.Multitenancy.dll
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\obj\Debug\net7.0\refint\SassKit.Multitenancy.dll
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\obj\Debug\net7.0\SassKit.Multitenancy.pdb
+C:\Github\SaasKit2\SassKit\SassKit.Multitenancy\obj\Debug\net7.0\ref\SassKit.Multitenancy.dll

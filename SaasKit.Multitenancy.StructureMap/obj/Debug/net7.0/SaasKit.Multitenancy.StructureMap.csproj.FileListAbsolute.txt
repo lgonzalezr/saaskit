@@ -1,0 +1,15 @@
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\obj\Debug\net7.0\SaasKit.Multitenancy.StructureMap.csproj.AssemblyReference.cache
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\obj\Debug\net7.0\SaasKit.Multitenancy.StructureMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\obj\Debug\net7.0\SaasKit.Multitenancy.StructureMap.AssemblyInfoInputs.cache
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\obj\Debug\net7.0\SaasKit.Multitenancy.StructureMap.AssemblyInfo.cs
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\obj\Debug\net7.0\SaasKit.Multitenancy.StructureMap.csproj.CoreCompileInputs.cache
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\bin\Debug\net7.0\SaasKit.Multitenancy.StructureMap.deps.json
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\bin\Debug\net7.0\SaasKit.Multitenancy.StructureMap.dll
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\bin\Debug\net7.0\SaasKit.Multitenancy.StructureMap.pdb
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\bin\Debug\net7.0\SassKit.Multitenancy.dll
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\bin\Debug\net7.0\SassKit.Multitenancy.pdb
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\obj\Debug\net7.0\SaasKit.Multitenancy.StructureMap.csproj.CopyComplete
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\obj\Debug\net7.0\SaasKit.Multitenancy.StructureMap.dll
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\obj\Debug\net7.0\refint\SaasKit.Multitenancy.StructureMap.dll
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\obj\Debug\net7.0\SaasKit.Multitenancy.StructureMap.pdb
+C:\Github\SaasKit2\SassKit\SaasKit.Multitenancy.StructureMap\obj\Debug\net7.0\ref\SaasKit.Multitenancy.StructureMap.dll
